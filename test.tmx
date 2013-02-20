@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="test" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../../../Volumes/Tiled 0.8.1/examples/tmw_desert_spacing.png" trans="ff00ff" width="265" height="199"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEKgkAUBdCpjdSudrUQW7bp/z+vF7SQYRqlmjI6By6CupB7EV2llDaRXeQQOUXOkXVkG9lHjgn+2+XbDwDAzxsi/ShT35buHtroR8c8uS7Zo7W899IO+fWpe3heaY9a38PEdV7zaI9S596N9ubuUduJ96n13hfO81m3zoc073+L9vS/PLYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDluwLFWwcY
+  </data>
+ </layer>
+</map>
